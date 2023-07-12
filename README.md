@@ -1,3 +1,7 @@
+# This is a pytube fork created for specific purpose
+ This fork was created for the specific purpose of fixing a pytube bug #1680. This fix will be used for my specific project. I have not done testing to ensure other functionality of the package still work with this change. If you decide to use please know their could be issues with the code not working properly going forward.
+
+
 <div align="center">
   <p>
     <a href="#"><img src="https://assets.nickficano.com/gh-pytube.min.svg" width="456" height="143" alt="pytube logo" /></a>
